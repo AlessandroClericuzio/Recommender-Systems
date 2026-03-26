@@ -4,6 +4,10 @@
 
 Un sistema di raccomandazione di film basato su un **approccio ibrido**, che combina **User-Based Collaborative Filtering** con tecniche di **clustering** per affrontare il problema del **cold start**.
 
+> **👥 Progetto di Gruppo:** Questo repository contiene il lavoro svolto in team.  
+> **👤 Il mio contributo:** All'interno del progetto, **mi sono occupato personalmente della progettazione e dell'implementazione dell'Approccio Ibrido** (visibile nella cartella `Hybrid-User-Based`), sviluppando la logica che unisce il filtraggio collaborativo User-Based e Item-Based per massimizzare la precisione delle raccomandazioni.
+
+
 ## 🧱 Architettura
 
 **RECOMMENDER-SYSTEM**:
